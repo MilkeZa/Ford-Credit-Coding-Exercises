@@ -9,8 +9,8 @@ class Point:
 
 def calc_manhattan_distance(point_a, point_b):
     manhattan_distance = (abs(point_a.x - point_b.x) + abs(point_a.y - point_b.y))
-    
-    # Three lines below used for debugging total distance
+
+    # Three lines below used for debugging distance of each axis
     #man_dist_x = abs(point_a.x - point_b.x)
     #man_dist_y = abs(point_a.y - point_b.y)
     #print("X distance: {}\nY distance: {}".format(man_dist_x, man_dist_y))
