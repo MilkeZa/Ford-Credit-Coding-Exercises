@@ -9,6 +9,7 @@ the two points.
 Since this is basic Python3 and doesn't contain any outside libraries, it should run out of the box
 considering Macs have had Python pre-installed for years now. Should yours not have Python3 installed,
 you can find instructions on how to download and install Python3 at: https://www.python.org/downloads/. 
+
 Once you're done with the installation (or not in the case it was already on your system), clone the 
 repository that I have provided and run the code just as you would any other project that you got from 
 GitHub. You can choose to run it inside your IDE of choice, or straight from the command line, whichever 
